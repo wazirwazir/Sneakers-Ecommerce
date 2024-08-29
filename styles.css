@@ -427,6 +427,7 @@ section:first-of-type .prever {
     section:nth-of-type(2) {
         min-width: 370px;
         max-width: 450px;
+        padding: 0;
         margin: 0 auto;
     }
     section:last-of-type {
